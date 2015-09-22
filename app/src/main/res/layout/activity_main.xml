@@ -10,14 +10,14 @@
         android:id="@+id/topBar"
         android:layout_width="match_parent"
         android:layout_height="40dp"
-        custom:leftBackground="#0000FF"
+        custom:leftBackground="#B7B7B7"
         custom:leftText="返回"
         custom:leftTextColor="#FFFFFF"
-        custom:rightBackground="#0000FF"
+        custom:rightBackground="#B7B7B7"
         custom:rightText="更多"
         custom:rightTextColor="#FFFFFF"
         custom:titleName="Bmob"
-        custom:titleTextColor="#123412"
+        custom:titleTextColor="#123462"
         custom:titleTextSize="10sp">
     </com.example.nb_mis_100002.myapplication.TopBar>
 
